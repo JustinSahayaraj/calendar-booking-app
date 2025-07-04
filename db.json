@@ -1,0 +1,92 @@
+{
+  "slots": [
+    {
+      "id": "1",
+      "day": "Mon",
+      "hour": "9AM",
+      "status": "booked",
+      "studentName": "Justin",
+      "subject": "Science"
+    },
+    {
+      "id": "2",
+      "day": "Mon",
+      "hour": "10AM",
+      "status": "available",
+      "studentName": "",
+      "subject": ""
+    },
+    {
+      "id": "3",
+      "day": "Mon",
+      "hour": "11AM",
+      "status": "available",
+      "studentName": "",
+      "subject": ""
+    },
+    {
+      "id": "4",
+      "day": "Tue",
+      "hour": "9AM",
+      "status": "available",
+      "studentName": "",
+      "subject": ""
+    },
+    {
+      "id": "5",
+      "day": "Tue",
+      "hour": "10AM",
+      "status": "available",
+      "studentName": "",
+      "subject": ""
+    },
+    {
+      "id": "6",
+      "day": "Wed",
+      "hour": "9AM",
+      "status": "available",
+      "studentName": "",
+      "subject": ""
+    },
+    {
+      "id": "7",
+      "day": "Wed",
+      "hour": "10AM",
+      "status": "available",
+      "studentName": "",
+      "subject": ""
+    },
+    {
+      "id": "8",
+      "day": "Thu",
+      "hour": "9AM",
+      "status": "available",
+      "studentName": "",
+      "subject": ""
+    },
+    {
+      "id": "9",
+      "day": "Thu",
+      "hour": "10AM",
+      "status": "available",
+      "studentName": "",
+      "subject": ""
+    },
+    {
+      "id": "10",
+      "day": "Fri",
+      "hour": "9AM",
+      "status": "available",
+      "studentName": "",
+      "subject": ""
+    },
+    {
+      "id": "11",
+      "day": "Fri",
+      "hour": "10AM",
+      "status": "available",
+      "studentName": "",
+      "subject": ""
+    }
+  ]
+}
